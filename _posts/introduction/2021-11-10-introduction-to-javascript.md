@@ -2,7 +2,6 @@
 layout: post
 title: Introduction To JavaScript
 subtitle: A Quick Look At What JavaScript Is And How It Works
-date: 2021-11-10 16:17:44 +0530
 tags: [basics, introduction]
 readtime: true
 gh-repo: enigma6174/javascript-blogs
