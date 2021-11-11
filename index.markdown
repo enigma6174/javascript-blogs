@@ -1,6 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: JavaScript 101
+subtitle: The most comprehensive collection of awesome JavaScript blogs
 ---
