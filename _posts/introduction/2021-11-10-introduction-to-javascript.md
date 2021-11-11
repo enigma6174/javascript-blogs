@@ -41,7 +41,7 @@ In this phase, the parsed code is converted to machine code (i.e. a format under
 
 In this phase, the machine code is then executed line by line and the results can be seen on the website or the host machine.
 
-![javascript-execute](./assets/img/js-execute.png)
+![javascript-execute](./img/js-execute.png)
 
 ### JavaScript Is Dynamic And Weakly Typed
 
@@ -52,7 +52,7 @@ In this phase, the machine code is then executed line by line and the results ca
 
 **Weakly Typed** means that the type of the data can change at runtime and datatypes are assumed automatically. This means that we do not have to specify the type of data a variable will hold. Whatever type of value is assigned to a variable, becomes the type. For e.g. a variable can hold numbers at one point _(Number type)_ and later on that variable may hold string _(String type)_
 
-![javascript-dynamic-weak](./assets/img/js-dynamic-weak.png)
+![javascript-dynamic-weak](/assets/img/js-dynamic-weak.png)
 
 ### JavaScript Runs On A Host Environment
 
@@ -68,4 +68,4 @@ JavaScript can also run on the server side or a remote machine. This is basicall
 {: .box-note}
 **Note:** Server side JavaScript **can** access the local filesystem, interact with host OS etc. It however **cannot** manipulate HTML or CSS
 
-![javascript-summary](/img/js-summary.png)
+![javascript-summary](/img/js-summary.PNG)
