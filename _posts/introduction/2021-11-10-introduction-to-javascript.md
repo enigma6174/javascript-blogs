@@ -21,7 +21,7 @@ When the user visits a webpage on their browser (for e.g. Google) what they are 
 
 Now, let us consider that the user makes another request - maybe clicking on some search settings which displays a popup window with advanced options. The user can select or unselect checkboxes, radio buttons, select items from a list etc. Now, all these features are made possible by JavaScript.
 
-![javascript-intro](/assets/js-intro.jpg)
+![javascript-intro](img/js-intro.jpg)
 
 ### How JavaScript Gets Executed
 
@@ -41,7 +41,7 @@ In this phase, the parsed code is converted to machine code (i.e. a format under
 
 In this phase, the machine code is then executed line by line and the results can be seen on the website or the host machine.
 
-![javascript-execute](/ims/js-execute.png)
+![javascript-execute](assets/img/js-execute.png)
 
 ### JavaScript Is Dynamic And Weakly Typed
 
