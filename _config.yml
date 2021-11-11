@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   A collection of awesome JavaScript blogs covering a wide variety of topics from basics to advanced
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/javascript-blogs"
-site_url: "https://enigma6174.github.io/javascript-blogs/"
+# baseurl: "/javascript-blogs"
+site_url: "https://enigma6174.github.io/"
 twitter_username: enigma6174
 github_username: enigma6174
 
