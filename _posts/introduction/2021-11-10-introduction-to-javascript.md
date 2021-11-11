@@ -41,7 +41,7 @@ In this phase, the parsed code is converted to machine code (i.e. a format under
 
 In this phase, the machine code is then executed line by line and the results can be seen on the website or the host machine.
 
-![javascript-execute](/assets/img/js-execute.png)
+![javascript-execute](/ims/js-execute.png)
 
 ### JavaScript Is Dynamic And Weakly Typed
 
