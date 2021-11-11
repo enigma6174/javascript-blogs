@@ -23,6 +23,11 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
+![javascript-dynamic-weak](/assets/img/js-dynamic-weak.png)
+![javascript-summary](/img/js-summary.png)
+![javascript-execute](./img/js-execute.png)
+![javascript-intro](img/js-intro.jpg)
+
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home

@@ -68,4 +68,4 @@ JavaScript can also run on the server side or a remote machine. This is basicall
 {: .box-note}
 **Note:** Server side JavaScript **can** access the local filesystem, interact with host OS etc. It however **cannot** manipulate HTML or CSS
 
-![javascript-summary](/img/js-summary.PNG)
+![javascript-summary](/img/js-summary.png)
