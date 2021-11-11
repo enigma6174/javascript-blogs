@@ -26,4 +26,4 @@ Through the continous efforts of ECMA International, they were able to create a 
 
 ECMAScript is more of a set of guidelines and standards that need to be followed and JavaScript is the programmable implementation of the same. Therefore, ECMAScript isn't directly used but the standards that it specifies get implemented.
 
-![javascript-history](https://drive.google.com/file/d/1RPEe2K3bL7-BE2nJOqoa-I1j12WceDdh/view?usp=sharing)
+![javascript-history](/javascript-blogs/assets/img/js-history.png)
