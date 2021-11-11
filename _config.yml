@@ -22,7 +22,7 @@ title: JavaScript Blogs
 email: enigma6174@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of awesome JavaScript blogs covering a wide variety of topics from basics to advanced
-baseurl: "/javascript-blogs" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: enigma6174
 github_username: enigma6174
