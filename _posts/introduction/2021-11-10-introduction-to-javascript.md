@@ -21,7 +21,7 @@ When the user visits a webpage on their browser (for e.g. Google) what they are 
 
 Now, let us consider that the user makes another request - maybe clicking on some search settings which displays a popup window with advanced options. The user can select or unselect checkboxes, radio buttons, select items from a list etc. Now, all these features are made possible by JavaScript.
 
-![javascript-intro](/assets/img/js-intro.jpg)
+![javascript-intro](/assets/js-intro.jpg)
 
 ### How JavaScript Gets Executed
 
