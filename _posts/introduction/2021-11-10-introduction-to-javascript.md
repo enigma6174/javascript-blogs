@@ -21,7 +21,7 @@ When the user visits a webpage on their browser (for e.g. Google) what they are 
 
 Now, let us consider that the user makes another request - maybe clicking on some search settings which displays a popup window with advanced options. The user can select or unselect checkboxes, radio buttons, select items from a list etc. Now, all these features are made possible by JavaScript.
 
-![javascript-intro](img/js-intro.jpg)
+![javascript-intro](./js-intro.jpg)
 
 ### How JavaScript Gets Executed
 
@@ -52,7 +52,7 @@ In this phase, the machine code is then executed line by line and the results ca
 
 **Weakly Typed** means that the type of the data can change at runtime and datatypes are assumed automatically. This means that we do not have to specify the type of data a variable will hold. Whatever type of value is assigned to a variable, becomes the type. For e.g. a variable can hold numbers at one point _(Number type)_ and later on that variable may hold string _(String type)_
 
-![javascript-dynamic-weak](/assets/img/js-dynamic-weak.png)
+![javascript-dynamic-weak](/javascript-blogs/assets/img/js-dynamic-weak.png)
 
 ### JavaScript Runs On A Host Environment
 
