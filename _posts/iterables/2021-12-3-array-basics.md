@@ -12,9 +12,12 @@ gh-badge: star
 
 > A JavaScript array can even have arrays and objects as it's array elements!
 
-Unlike many other programming languages, in JavaScript, arrays are _dynamic in nature_ - this means that array size need not be specified when an array is created. And elements can be added to or removed from an array without any explicit sizing and resizing of the array by the developer!
+Unlike many other programming languages, in JavaScript, arrays are _dynamic in nature_. This means that array size need not be specified when an array is created. And elements can be added to or removed from an array without any explicit sizing and resizing of the array by the developer!
 
 A JavaScript array is a very important data structure and as a developer it is one of the most important and frequent ones you will work with. 
+
+{: .box-note}
+**Note** Array elements are **0-indexed** which means that the index (i.e. _position in the array_) of the first element is 0, the index of the second element is 1 and so on. Any element in the array can be accessed using the square bracket notation **[i]** where **i** is the index of the element we want to access. For example if we want to access the 2nd element (index 1) of an array **buffer** the code snippet will be ```buffer[1]```. Also, every array has an attribute called length which returns the length of the array. So if the array **buffer** has 5 elements, ```buffer.length``` will return 5.
 
 Here is some basic code to get started with arrays!
 
